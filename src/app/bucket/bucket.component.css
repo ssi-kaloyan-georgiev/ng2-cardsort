@@ -1,0 +1,24 @@
+.buckets-container {
+    text-align: center;
+}
+.bucket {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top;
+    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.bucket-title {
+    background-color: #7DDEEC;
+    padding: 5px;
+}
+.bucket-drop-area {
+    height: 100%;
+    background-color: #B1EBF4;
+}
